@@ -49,3 +49,8 @@ img {
     display: flex;
     justify-content: center;
 }
+
+.categoria{
+    padding-left:   20px;
+    padding-right:  20px;
+}
