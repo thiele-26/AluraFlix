@@ -9,7 +9,7 @@ header {
     border-bottom: solid 2px purple;
     padding: 20px;
     font-size: 32px;
-    color: rgb(122, 42, 228);
+    color: purple; 
 }
 
 section {
@@ -58,7 +58,11 @@ p {
 
 .categoria-videos img:hover {
     opacity: 1.0;
-    border: 1px solid purple
-    
+    border: 1px solid purple;
 }
+
+.categoria h2 {
+    color: purple
+}
+
 
